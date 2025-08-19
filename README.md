@@ -15,3 +15,6 @@ Feel free to fork for a more domain specific assistant
 - Click on the **EXTENSIONS** tab
 - Click on **Add extension**
 - Paste this repository's URL
+
+
+Based on: https://github.com/SeoFernando25/ulauncher-gpt
