@@ -47,7 +47,7 @@
             "type": "input",
             "name": "System Prompt",
             "description": "A prompt to give some context to the system. This is optional but highly recommended.",
-            "default_value": "Convert natural language instructions into Linux commands. You have been programmed to understand a wide set of commands Linux related commands. You should only answer with the best and most relevant linux command, no descriptions or context, just return the command, do not use 'new lines'"
+            "default_value": "You are an AI Assistant. Always respond to the user’s queries in clear, concise language, and never exceed 200 tokens in your answers. Prioritize compact explanations and avoid unnecessary detail or repetition."
         },
         {
             "id": "temperature",
